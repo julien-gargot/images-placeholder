@@ -14,7 +14,7 @@
    viewBox="0 0 3072 4096"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="placeholder-portrait.svg"
    inkscape:export-filename="/home/julien/Pictures/Inkscape/placeholder/placeholder-portrait.png"
    inkscape:export-xdpi="90"
@@ -29,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.083251948"
-     inkscape:cx="1783.3299"
+     inkscape:cx="-414.81686"
      inkscape:cy="2263.3147"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
@@ -37,12 +37,12 @@
      units="px"
      inkscape:window-width="1357"
      inkscape:window-height="859"
-     inkscape:window-x="2181"
-     inkscape:window-y="165"
+     inkscape:window-x="241"
+     inkscape:window-y="28"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      gridtolerance="10"
      inkscape:snap-grids="true"
      inkscape:snap-to-guides="true"
@@ -63,11 +63,13 @@
     <sodipodi:guide
        position="3420.4545,1922.2222"
        orientation="1,0"
-       id="guide8165" />
+       id="guide8165"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="425,2647"
        orientation="0,1"
-       id="guide8167" />
+       id="guide8167"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -126,16 +128,35 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Alegreya Sans';-inkscape-font-specification:'Alegreya Sans, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#a0a0a0;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Alegreya Sans';-inkscape-font-specification:'Alegreya Sans, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#a0a0a0;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="2848.5796"
        y="-1637.0957"
        id="text8143"
-       sodipodi:linespacing="125%"
        transform="scale(0.9999982,1.0000018)"><tspan
          sodipodi:role="line"
          id="tspan8145"
          x="2848.5796"
          y="-1637.0957"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:'Police système';-inkscape-font-specification:'Police système';text-align:center;text-anchor:middle;fill:#a0a0a0;fill-opacity:1">id</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;line-height:1.25;font-family:'Police système';-inkscape-font-specification:'Police système';text-align:center;text-anchor:middle;fill:#a0a0a0;fill-opacity:1">id</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:14.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 2402.3462,130.0175 c 23.8873,-554.0735 -19.3537,-948.9268 -672.6569,-948.9268 -76.4289,0 -246.1451,-33.0799 -312.305,0 -116.1419,58.071 -322.8578,590.0338 -216.2112,696.6804 23.2677,23.2677 177.1743,4.505 216.2112,24.0235 296.9656,148.4828 396.3871,489.5586 396.3871,816.7977"
+       id="path827"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:14.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 1489.4546,-182.2875 c 161.759,97.2692 129.1783,-27.1829 168.1643,-144.1408"
+       id="path829"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:14.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 1717.6775,-518.616 c 135.6183,68.0347 180.176,10.7328 180.176,-108.1056"
+       id="path831"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:14.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 1837.7948,-26.135 c -63.4605,159.0412 159.6317,289.966 288.2816,204.1994 67.8343,-45.2229 140.1691,-365.6797 48.0469,-396.3871"
+       id="path833"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
